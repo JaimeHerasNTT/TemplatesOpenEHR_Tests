@@ -40,7 +40,7 @@ description
     >
     other_details = <
         ["current_contact"] = <"Heather Leslie, Atomica Informatics<heather.leslie@atomicainformatics.com>">
-        ["MD5-CAM-1.0.1"] = <"5c1c6b8425fe99eef2b542a7c05bf430">
+        ["MD5-CAM-1.0.1"] = <"b6ebbf2693a00116563beae316c1e5cd">
     >
     details = <
         ["de"] = <
@@ -48,9 +48,9 @@ description
             purpose = <"Zur Repräsentation von Informationen über die Prävalenz eines bestimmten Risikofaktors, eines Problems oder einer Diagnose bei genetischen und nicht-genetischen Familienmitgliedern.">
             keywords = <"Familienanamnese", "Prävalenz", "betroffen", "genetisch">
             use = <"Zur Repräsentation von Informationen über die Prävalenz eines bestimmten Risikofaktors, eines Problems oder einer Diagnose bei genetischen und nicht-genetischen Familienmitgliedern.
-            
-            Dieser Archetyp wurde speziell für die Verwendung im 'Detail' SLOT innerhalb des Archetyps EVALUATION.health_risk entwickelt, um die Risikobewertung im Bereich der Pflege für den ermittelten Risikofaktors und der \"Familienprävalenz\" Slot im Archetyp EVALUATION.family_history zu unterstützen. Es kann auch in der SLOT \"Spezifische Details\" innerhalb des Archetyps EVALUATION.problem_diagnosis ,oder anderer EVALUATION- oder CLUSTER-Archetypen verwendet werden, falls dies klinisch angemessen ist.
-            ">
+                
+                Dieser Archetyp wurde speziell für die Verwendung im 'Detail' SLOT innerhalb des Archetyps EVALUATION.health_risk entwickelt, um die Risikobewertung im Bereich der Pflege für den ermittelten Risikofaktors und der \"Familienprävalenz\" Slot im Archetyp EVALUATION.family_history zu unterstützen. Es kann auch in der SLOT \"Spezifische Details\" innerhalb des Archetyps EVALUATION.problem_diagnosis ,oder anderer EVALUATION- oder CLUSTER-Archetypen verwendet werden, falls dies klinisch angemessen ist.
+                ">
             misuse = <"Nicht zur Repräsentation von aktuellen Gesundheitsinformationen über Problemen oder Diagnosen einzelner Familienmitglieder verwenden - verwenden Sie dazu EVALUATION.family_history.">
         >
         ["pt-br"] = <
@@ -58,8 +58,8 @@ description
             purpose = <"Para registrar informações sobre a prevalência de um fator de risco identificado, problema ou diagnóstico não-genético ou genético em membros da família.">
             keywords = <"história familiar", "prevalência", "afetado", "genético">
             use = <"Use para registrar informações sobre a prevalência de um fator de risco identificado, problema ou diagnóstico não-genético ou genético em membros da família .
-            
-            Este arquétipo foi projetado especificamente para ser usado no SLOT detalhe dentro do arquétipo de EVALUATION.healthrisk para apoiar a avaliação de risco em objeto de cuidados para o fator de risco identificado e a família prevalência SLOT no arquétipo de EVALUATION.familyhistory. Também pode ser usada em detalhes específicos SLOT dentro do arquétipo de EVALUATION.problemdiagnosis, ou outros arquétipos de avaliação ou de CLUSTER, quando clinicamente apropriado.">
+                
+                Este arquétipo foi projetado especificamente para ser usado no SLOT detalhe dentro do arquétipo de EVALUATION.healthrisk para apoiar a avaliação de risco em objeto de cuidados para o fator de risco identificado e a família prevalência SLOT no arquétipo de EVALUATION.familyhistory. Também pode ser usada em detalhes específicos SLOT dentro do arquétipo de EVALUATION.problemdiagnosis, ou outros arquétipos de avaliação ou de CLUSTER, quando clinicamente apropriado.">
             misuse = <"Não deve ser utilizado para registrar informações sobre problemas ou diagnósticos individuais de membros da família - use EVALUATION.family_history para essa finalidade.">
         >
         ["en"] = <
@@ -67,8 +67,8 @@ description
             purpose = <"To record information about the prevalence of an identified risk factor, problem or diagnosis in genetic and non-genetic family members.">
             keywords = <"family history", "prevalence", "affected", "genetic">
             use = <"Use to record information about the prevalence of an identified risk factor, problem or diagnosis in genetic and non-genetic family members.
-            
-            This archetype has specifically been designed to be used in the 'Detail' SLOT within the EVALUATION.health_risk archetype to support assessment of risk in the subject of care for the identified 'Risk factor' and the 'Family prevalence' SLOT in the EVALUATION.family_history archetype. It can also be used in the 'Specific details' SLOT within the EVALUATION.problem_diagnosis archetype or other EVALUATION or CLUSTER archetypes, where clinically appropriate.">
+                
+                This archetype has specifically been designed to be used in the 'Detail' SLOT within the EVALUATION.health_risk archetype to support assessment of risk in the subject of care for the identified 'Risk factor' and the 'Family prevalence' SLOT in the EVALUATION.family_history archetype. It can also be used in the 'Specific details' SLOT within the EVALUATION.problem_diagnosis archetype or other EVALUATION or CLUSTER archetypes, where clinically appropriate.">
             misuse = <"Not to be used to record actual health information about problems or diagnoses in individual family members - use EVALUATION.family_history for this purpose.">
             copyright = <"© openEHR Foundation">
         >
@@ -228,7 +228,7 @@ terminology
                 text = <"Betroffene Familienmitglieder">
                 description = <"Angaben über die Anzahl der betroffenen Familienmitglieder.">
                 comment = <"Dieses Cluster wird für jede Verwandtschaft, Familienlinie, Geschlechtswert oder Kombination aller drei wiederholt. Zum Beispiel wird dieses Cluster für einen oder alle männlichen Verwandten ersten Grades (ohne Geschlecht angegeben), einen Verwandten ersten Grades von der mütterlichen Linie, einen Verwandten ersten Grades männlichen Verwandten oder weiblichen Verwandten ersten Grades oder alle männlichen, alle weiblichen Verwandten wiederholt.
-            ">
+                ">
             >
             ["id31"] = <
                 text = <"Beschreibung">
