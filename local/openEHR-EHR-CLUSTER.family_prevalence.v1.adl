@@ -72,7 +72,7 @@ This archetype has specifically been designed to be used in the 'Detail' SLOT wi
 		["original_namespace"] = <"org.openehr">
 		["original_publisher"] = <"openEHR Foundation">
 		["custodian_namespace"] = <"org.openehr">
-		["MD5-CAM-1.0.1"] = <"A76B97FA164830629EA15341E9229D7C">
+		["MD5-CAM-1.0.1"] = <"f31217c13f9b2ca286cc6d6715f53d92">
 		["build_uid"] = <"252b7c71-387a-41d0-93ec-87cd7ee23cc8">
 		["revision"] = <"1.0.5">
 	>
