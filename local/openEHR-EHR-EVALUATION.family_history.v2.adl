@@ -284,7 +284,7 @@ HL7 Version 3 Standard: Clinical Genomics; Pedigree, Release 1. ANSI/HL7 V3 CGPE
 		["original_namespace"] = <"org.openehr">
 		["original_publisher"] = <"openEHR Foundation">
 		["custodian_namespace"] = <"org.openehr">
-		["MD5-CAM-1.0.1"] = <"8E5ACDDB8A76628F09300293319E87D6">
+		["MD5-CAM-1.0.1"] = <"f3817760ec5a6c2cd0b9b71c0a2404c5">
 		["build_uid"] = <"815e371a-208d-45c8-b3c3-4198554e67d1">
 		["ip_acknowledgements"] = <"This artefact includes content from SNOMED Clinical Terms® (SNOMED CT®) which is copyrighted material of the International Health Terminology Standards Development Organisation (IHTSDO). Where an implementation of this artefact makes use of SNOMED CT content, the implementer must have the appropriate SNOMED CT Affiliate license - for more information contact http://www.snomed.org/snomed-ct/get-snomedct or info@snomed.org.">
 		["revision"] = <"2.0.5-alpha">
